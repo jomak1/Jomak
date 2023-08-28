@@ -1,6 +1,6 @@
 # Jomak
 
-### Hi there 👋, my name is Jomak 
+### Hi there 👋, my name is Jomak (Joe-Mack) 
 #### Business & Sales Artist
 ![Business & Sales Artist](https://media.licdn.com/dms/image/D5616AQGbjkVf0NWEmQ/profile-displaybackgroundimage-shrink_350_1400/0/1693246114033?e=1698883200&v=beta&t=gI9tlYfFK_xRipO7MMqkY5w1vvE76L6BA7Y1jbaTHbM)
 

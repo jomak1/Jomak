@@ -10,7 +10,7 @@ Skills: Customer Focused | Story Teller | Alliance Builder | Solutions Leader | 
 
 - 🔭 I’m currently working on professional development, always 
 - 🌱 I’m currently learning more about AI 
-- 💬 Ask me about I enjoy breathing air 
+- 💬 Ask me about anything 
 - ⚡ Fun fact: I don't like elevators 
 
 

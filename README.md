@@ -1,6 +1,6 @@
 # Jomak
 
-### Hi there 👋, my name is Jomak (Joe-Mack) 
+### Hi there 👋, my name is Jomak (Joe-Mack)
 #### Business & Sales Artist
 ![Business & Sales Artist](https://media.licdn.com/dms/image/D5616AQGbjkVf0NWEmQ/profile-displaybackgroundimage-shrink_350_1400/0/1693246114033?e=1698883200&v=beta&t=gI9tlYfFK_xRipO7MMqkY5w1vvE76L6BA7Y1jbaTHbM)
 
@@ -10,8 +10,13 @@ Skills: Customer Focused | Story Teller | Alliance Builder | Solutions Leader | 
 
 - 🔭 I’m currently working on professional development, always 
 - 🌱 I’m currently learning more about AI 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything
 - ⚡ Fun fact: I don't like elevators 
+
+
+
+
+
 
 
 
